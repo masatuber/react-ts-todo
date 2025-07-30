@@ -2,3 +2,12 @@
   margin: 0;
   text-align: center;
 }
+
+.inputText {
+  padding: 10px;
+}
+
+.inputButton {
+  padding: 10px;
+  cursor: pointer;
+}
